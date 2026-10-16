@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "data_version": "nrc-live-2026.10.15-r18677",
+  "published_at": "2026-10-16T06:22:57.022401Z",
+  "minimum_app_version": "0.1.0",
+  "package_url": "roco-data-nrc-live-2026.10.15-r18677.zip",
+  "package_size": 254149,
+  "package_sha256": "ca2771ef3341d4ff7117bc22856cbc8e3ad9607d071e9fedce598302c7d9012e",
+  "source": "洛克王国：世界 BWIKI；Catalog r18675 / Evolutions r18677 / Skills r16558 / Learnsets r13094",
+  "notes": "新增6个普通可选特殊形态；量风碗、测风蝉、幽铃、摇铃魔偶种族值调整；进化链形态名称与分支关系修正；可携带技能及技能池无变化，保留人工确认的特殊伤害规则。"
+}

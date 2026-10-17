@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.2.1",
-  "published_at": "2026-10-17T08:05:50.145275Z",
-  "installer_url": "https://github.com/2q3q/lkwg-PVP/releases/download/v0.2.1/RocoBattleTool-Setup-0.2.1.exe",
-  "installer_size": 59957847,
-  "installer_sha256": "bdee32ce01a0234ada56223d34a0a5ccd22d1a1d7c6e3329342c5feb80138bc0",
-  "release_page_url": "https://github.com/2q3q/lkwg-PVP/releases/tag/v0.2.1",
-  "notes": "完成程序本体在线更新闭环验证；战斗数据与计算规则未变化。"
+  "version": "0.2.2",
+  "published_at": "2026-10-17T14:05:59.865197Z",
+  "installer_url": "https://github.com/2q3q/lkwg-PVP/releases/download/v0.2.2/RocoBattleTool-Setup-0.2.2.exe",
+  "installer_size": 59961511,
+  "installer_sha256": "e7162ccab916e3fb9d36e380f6ff8f0ef49bc31513cb58df472ca3e846e9d738",
+  "release_page_url": "https://github.com/2q3q/lkwg-PVP/releases/tag/v0.2.2",
+  "notes": "携带技能扩展为八槽，兼容原四技能方案。"
 }

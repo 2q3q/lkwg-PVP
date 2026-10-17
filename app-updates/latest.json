@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.2.0",
-  "published_at": "2026-10-17T06:37:42.965881Z",
-  "installer_url": "https://github.com/2q3q/lkwg-PVP/releases/download/v0.2.0/RocoBattleTool-Setup-0.2.0.exe",
-  "installer_size": 59960669,
-  "installer_sha256": "07b697e52c559c9520e9b297e4bba0a14322536a46bb2b69a381f4b1dd996f82",
-  "release_page_url": "https://github.com/2q3q/lkwg-PVP/releases/tag/v0.2.0",
-  "notes": "新增程序本体一键更新：检查版本、下载安装包、校验大小和 SHA-256，并在确认后覆盖安装和启动新版。"
+  "version": "0.2.1",
+  "published_at": "2026-10-17T08:05:50.145275Z",
+  "installer_url": "https://github.com/2q3q/lkwg-PVP/releases/download/v0.2.1/RocoBattleTool-Setup-0.2.1.exe",
+  "installer_size": 59957847,
+  "installer_sha256": "bdee32ce01a0234ada56223d34a0a5ccd22d1a1d7c6e3329342c5feb80138bc0",
+  "release_page_url": "https://github.com/2q3q/lkwg-PVP/releases/tag/v0.2.1",
+  "notes": "完成程序本体在线更新闭环验证；战斗数据与计算规则未变化。"
 }

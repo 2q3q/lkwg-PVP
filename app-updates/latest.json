@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.2.2",
-  "published_at": "2026-10-17T14:05:59.865197Z",
-  "installer_url": "https://github.com/2q3q/lkwg-PVP/releases/download/v0.2.2/RocoBattleTool-Setup-0.2.2.exe",
-  "installer_size": 59961511,
-  "installer_sha256": "e7162ccab916e3fb9d36e380f6ff8f0ef49bc31513cb58df472ca3e846e9d738",
-  "release_page_url": "https://github.com/2q3q/lkwg-PVP/releases/tag/v0.2.2",
-  "notes": "携带技能扩展为八槽，兼容原四技能方案。"
+  "version": "0.2.3",
+  "published_at": "2026-10-17T14:48:13.397738Z",
+  "installer_url": "https://github.com/2q3q/lkwg-PVP/releases/download/v0.2.3/RocoBattleTool-Setup-0.2.3.exe",
+  "installer_size": 122509648,
+  "installer_sha256": "036c372b08b483105291072c242e9d67566eca68e0f7f8c4fb40333991fe1bc6",
+  "release_page_url": "https://github.com/2q3q/lkwg-PVP/releases/tag/v0.2.3",
+  "notes": "双方队伍列表改为本地 OCR：自动裁剪左右六个队伍位置，无需 API Key，并在应用前核对十二个精灵。"
 }

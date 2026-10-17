@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "data_version": "nrc-live-2026.10.16-dimo-noop-r1",
-  "published_at": "2026-10-16T07:59:03.105512Z",
+  "data_version": "nrc-live-2026.10.16-learnset-audit-r1",
+  "published_at": "2026-10-16T14:54:50.125852Z",
   "minimum_app_version": "0.1.0",
-  "package_url": "roco-data-nrc-live-2026.10.16-dimo-noop-r1.zip",
-  "package_size": 254009,
-  "package_sha256": "37e65cb25b4c8b792b095c90d86d22ea0ec95668dc8203cdd74aa4f070bae0f2",
-  "source": "https://github.com/2q3q/lkwg-PVP",
-  "notes": "模拟更新：重新确认迪莫种族值，六项数值保持不变；用于验证一键在线更新流程。"
+  "package_url": "roco-data-nrc-live-2026.10.16-learnset-audit-r1.zip",
+  "package_size": 254122,
+  "package_sha256": "ea06df312c4f963044d1f7fc4bcdbe2d28f6d0da620cb47bd000400354efae8a",
+  "source": "洛克王国：世界 BWIKI；Catalog r18675 / Evolutions r18677 / Skills r16558 / Learnsets r13094",
+  "notes": "全量审计566只可选精灵与27921条去重技能关系；新增6个特殊形态及其296条关系；同步4只精灵种族值与进化链修正；保留人工确认的特殊伤害规则。"
 }
